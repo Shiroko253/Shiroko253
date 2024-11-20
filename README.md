@@ -1,30 +1,90 @@
-# 嗨
+# 3 2 1 2 3
+---
 
-我是 **Miya253** (GitHub 用戶名：`xuemeng1987`)，也可以稱我為 **Shiroko**。
+## Me?
+
+- one discord user
+- one gamer
+- one nomar a man
 
 ---
 
-我是一名 **Discord 機器人開發者**，同時也開發一些**機器人管理網頁**。我熱愛編程，專注於不斷提升和完善我的機器人項目。希望通過我的項目為社區提供更多便利！
+## From?
 
-### Discord 機器人開發使用的語言
-
-- **Python**：主要編程語言
-  - **YAML**：用於存儲數據的格式，方便儲存設定和配置（雖然用起來不如 JSON 直觀 ）
-  - **JSON**：也是一種常用的數據存儲格式，適合保存較靈活的數據
-
-### 機器人網頁開發
-
-- **HTML**：網頁開發的基礎
-- **CSS**：讓網頁美觀、易於使用
-- **JavaScript**：讓網頁更加互動和動態
+- Malaysia
+  - Sarawak
+  - Kota Padawan
 
 ---
 
-## 如何找到我
+## How Old?
 
+- 19 (19-7-2005)
+
+---
+
+_
+
+_
+
+_
+
+_
+
+你還想要什麽 我說中文給你看嘛
+- 中文
+  - 中文
+  - 中文
+
+---
+
+## progem a project
+
+- [零號計劃](https://github.com/xuemeng1987/Project-Zero)
+  - 使用的語言
+  - python
+  - yaml
+  - json
+- [個人網頁web](https://xuemeng1987.github.io/ShirokoHub/)
+  - 使用的語言
+  - html
+  - css
+- [零號計劃的Discord機器人](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
+  - 使用語言
+  - cn-zh
+
+---
+
+## Fine This is you'r lat's time now
+
+- [osu.ppy](https://osu.ppy.sh/users/23623263)
+- [Discord](https://discord.gg/4GE3FpR8rH)
 - **X** (原 Twitter): [@yuemeng62](https://x.com/yuemeng200)
 - **Discord**: miya253 （顯示名稱：Shiroko）
 - **GitHub**: [Miya253](https://github.com/xuemeng1987)
 - **Instagram**: [Miya_2530_](https://www.instagram.com/miya_2530_/)
 
 ---
+
+## ...
+
+```python
+import tkinter as tk
+from tkinter import messagebox
+
+def on_button_click():
+    messagebox.showinfo("Warning", "You have perished. Farewell!")
+
+root = tk.Tk()
+root.title("Perish Button")
+root.geometry("300x200")
+
+perish_button = tk.Button(root, text="Click here and you will perish immediately", 
+                          command=on_button_click, 
+                          fg="white", bg="red", 
+                          font=("Helvetica", 12, "bold"),
+                          wraplength=280)
+perish_button.pack(expand=True)
+
+root.mainloop()
+```
