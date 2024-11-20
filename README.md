@@ -5,7 +5,7 @@
 
 - one discord user
 - one gamer
-- one nomar a man
+- one normar a man
 
 ---
 
