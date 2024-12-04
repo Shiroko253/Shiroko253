@@ -3,9 +3,17 @@
 
 ## Me?
 
-- one discord user
-- one gamer
-- one normar a man
+- one player's
+- one user
+- one human
+- one developer
+- one ... a nothing people
+- one wangang player's
+- one osu player's
+- I'm is this world a NPC...
+  - I have a dream but is broken
+  - I have Nothing...
+  - BUT I'm steve
 
 ---
 
