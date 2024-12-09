@@ -83,20 +83,33 @@ _
 ```python
 import tkinter as tk
 from tkinter import messagebox
-
-def on_button_click():
-    messagebox.showinfo("Warning", "You have perished. Farewell!")
+import time
 
 root = tk.Tk()
-root.title("Perish Button")
-root.geometry("300x200")
+root.title("System Shutdown")
+root.geometry("400x300")
+root.configure(bg="black")
 
-perish_button = tk.Button(root, text="Click here and you will perish immediately", 
-                          command=on_button_click, 
-                          fg="white", bg="red", 
-                          font=("Helvetica", 12, "bold"),
-                          wraplength=280)
-perish_button.pack(expand=True)
+root.attributes("-fullscreen", True)
 
+countdown_label = tk.Label(root, text="", font=("Helvetica", 48, "bold"), fg="red", bg="black")
+countdown_label.pack(expand=True)
+
+def fake_shutdown():
+    for i in range(10, -1, -1):
+        countdown_label.config(text=f"Shutting down in {i} seconds...")
+        root.update()
+        time.sleep(1)
+
+    messagebox.showinfo("Shutdown", "System shutdown completed.")
+    root.destroy()
+def blue_screen_of_death():
+    root.configure(bg="blue")
+    countdown_label.config(fg="white", text="A critical error has occurred.")
+    root.update()
+    time.sleep(3)
+    fake_shutdown()
+
+blue_screen_of_death()
 root.mainloop()
 ```
