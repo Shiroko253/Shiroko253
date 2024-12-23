@@ -50,11 +50,8 @@ _
 
 ## progem a project
 
-- [零號計劃](https://github.com/xuemeng1987/Project-Zero)
-  - 使用的語言
-  - python
-  - yaml
-  - json
+- ~~[零號計劃](https://github.com/xuemeng1987/Project-Zero)~~ stop develop now
+ 
 - [個人網頁web](https://xuemeng1987.github.io/ShirokoHub/)
   - 使用的語言
   - html
