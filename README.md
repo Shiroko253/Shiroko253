@@ -7,10 +7,10 @@
   - Miya253又稱Shiroko
 - 一個可以説是怪人 有可以説是 維護者
 
-[@xuemeng1987](github.com/xuemeng1987)
+[@xuemeng1987](https://github.com/xuemeng1987)
 - 零號計劃發起者
 
-[@Miya253](github.com/Miya253)
+[@Miya253](https://github.com/Miya253)
 - 零號計劃參與者兼bug尋找員
 ---
 
