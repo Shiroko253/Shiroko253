@@ -1,23 +1,16 @@
 # 3 2 1 2 3
----
 
 ## Me?
-
-- one player's
-- one user
-- one human
-- one developer
-- one ... a nothing people
-- one wangang player's
-- one osu player's
-- I'm is this world a NPC...
-  - I have a dream but is broken
-  - I have Nothing...
-  - BUT I'm steve
-
+---
+- 一個特立獨行的存在 也是一個神秘的存在
+  - 所有的資料庫並不包含他的訊息
+  - Miya253又稱Shiroko
+- 一個可以説是怪人 有可以説是 維護者
 ---
 
 ## From?
+
+---
 
 - Malaysia
   - Sarawak
@@ -27,19 +20,15 @@
 
 ## How Old?
 
+---
+
 - 19 (19-7-2005)
 
 ---
 
-_
-
-_
-
-_
-
-_
-
 ## 你想看什麽
+
+---
 
 你還想看到什麽
 
@@ -50,8 +39,8 @@ _
 
 ## progem a project
 
-- ~~[零號計劃](https://github.com/xuemeng1987/Project-Zero)~~ stop develop now
- 
+- [零號計劃](https://github.com/xuemeng1987/Yuyuko_Bot)
+   - python
 - [個人網頁web](https://xuemeng1987.github.io/ShirokoHub/)
   - 使用的語言
   - html
