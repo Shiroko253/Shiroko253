@@ -6,8 +6,10 @@
   - 所有的資料庫並不包含他的訊息
   - Miya253又稱Shiroko
 - 一個可以説是怪人 有可以説是 維護者
+
 [@xuemeng1987](github.com/xuemeng1987)
 - 零號計劃發起者
+
 [@Miya253](github.com/Miya253)
 - 零號計劃參與者兼bug尋找員
 ---
