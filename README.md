@@ -13,7 +13,7 @@
 ## Github Stats
 ![Shiroko253's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroko253&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253&show_icons=true&theme=cobalt)](https://github.com/Shiroko253/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253&layout=compact&show_icons=true&theme=cobalt)](https://github.com/Shiroko253/github-readme-stats)
 
 ## somthing give you~
 - this is me
