@@ -20,11 +20,11 @@
 - this is me
 - [Project-Zero](https://github.com/xuemeng1987/Project-Zero)
    - use language
-   - python
+   - ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 - [My web](https://Shiroko253.github.io/ShirokoHub/)
   - use language
-  - html
-  - css
+  - ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat)
+  - ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat)
 - [Project-Zero discord bot](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
   - use language
   - cn-zh
