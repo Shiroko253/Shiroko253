@@ -21,6 +21,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiroko253&repo=Project-Zero&theme=dracula)](https://github.com/Shiroko253/Project-Zero)
 
+### languages?
+- Python - develop my discord bot
+- JavaScript - maybe can try develop a app? maybe(?
+- C# - develop to V2 discord bot but is C#!! (studying...)
+- html - MY WEB ?!
+- css - WEB A COLOR ?
+
 ## form?
 - country : Malaysia
 - continent : Sarawak
