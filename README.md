@@ -27,6 +27,7 @@
 - C# - develop to V2 discord bot but is C#!! (studying...)
 - html - MY WEB ?!
 - css - WEB A COLOR ?
+- java - maybe... is time do a mod?
 
 ## form?
 - country : Malaysia
