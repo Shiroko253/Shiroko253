@@ -7,6 +7,8 @@
 
   * *(Born: July 19, 2005)*
 
+<img src="./img/me.png" alt="Shiroko253" width="200"/>
+
 ### 🔍 Other Identities
 
 * [@Shiroko253](https://github.com/Shiroko253)
@@ -57,6 +59,8 @@ A personal website project.
   ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3\&logoColor=white\&style=flat)
 
 ### [Project-Zero Discord Bot](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
+
+<img src="./img/yuyuko.png" alt="Project-Zero Bot" width="200"/>
 
 * **Language**: Python
 * **Localization**: Chinese (zh-CN)
