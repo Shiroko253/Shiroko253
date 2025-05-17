@@ -1,48 +1,62 @@
-# welecome Shiroko253 the README.md
+# Welcome to Shiroko253's README
 
-## who?
+## 👤 Who?
 
-- name: Shiroko
-- year old: 19
-  - (19-7-2005)
+* **Name**: Shiroko
+* **Age**: 19
 
-### other me
+  * *(Born: July 19, 2005)*
 
-[@Shiroko253](https://github.com/Shiroko253)
-- Founder of Project Zero
+### 🔍 Other Identities
 
-[@Miya253](https://github.com/Miya253)
-- Participant of Project Zero and concurrently serves as a bug finder and fixer
+* [@Shiroko253](https://github.com/Shiroko253)
+  Founder of **Project Zero**
 
-## Github Stats?
-![Shiroko253's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroko253&show_icons=true&theme=cobalt)
+* [@Miya253](https://github.com/Miya253)
+  Participant of Project Zero — Bug finder and fixer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253&layout=compact&show_icons=true&theme=cobalt)](https://github.com/Shiroko253/github-readme-stats)
+## 📊 GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiroko253&repo=Project-Zero&theme=dracula)](https://github.com/Shiroko253/Project-Zero)
+![Shiroko253's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroko253\&show_icons=true\&theme=cobalt)
 
-### languages?
-- Python - develop my discord bot
-- JavaScript - maybe can try develop a app? maybe(?
-- C# - develop to V2 discord bot but is C#!! (studying...)
-- html - MY WEB ?!
-- css - WEB A COLOR ?
-- java - maybe... is time do a mod?
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253\&layout=compact\&show_icons=true\&theme=cobalt)](https://github.com/Shiroko253/github-readme-stats)
 
-## form?
-- country : Malaysia
-- continent : Sarawak
-  - area : Kuching Kota Padawan
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiroko253\&repo=Project-Zero\&theme=dracula)](https://github.com/Shiroko253/Project-Zero)
 
-## Develop a somthing
-- this is me
-- [Project-Zero](https://github.com/xuemeng1987/Project-Zero)
-   - use language
-   - ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
-- [My web](https://miya253.github.io/ShirokoHub/)
-  - use language
-  - ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat)
-  - ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=flat)
-- [Project-Zero discord bot](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
-  - use language
-  - cn-zh
+## 💻 Programming Languages
+
+* **Python** – Used for Discord bot development
+* **JavaScript** – Exploring app development
+* **C#** – Currently studying; planning to develop Discord bot V2
+* **HTML** – For personal web projects
+* **CSS** – Styling websites
+* **Java** – Might explore mod development in the future
+
+## 🌏 Where I'm From
+
+* **Country**: Malaysia
+* **State**: Sarawak
+
+  * **City**: Kuching Kota Padawan
+
+## 🛠️ Projects I'm Developing
+
+### [Project-Zero](https://github.com/xuemeng1987/Project-Zero)
+
+A core personal project.
+
+* **Language**:
+  ![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white\&style=flat-square)
+
+### [My Web](https://miya253.github.io/ShirokoHub/)
+
+A personal website project.
+
+* **Languages**:
+  ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5\&logoColor=white\&style=flat)
+  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3\&logoColor=white\&style=flat)
+
+### [Project-Zero Discord Bot](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
+
+* **Language**: Python
+* **Localization**: Chinese (zh-CN)
