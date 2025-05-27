@@ -7,7 +7,7 @@
 
   * *(Born: July 19, 2005)*
 
-<img src="./img/me.png" alt="Shiroko253" width="200"/>
+<img src="./img/me2.png" alt="Shiroko253" width="200"/>
 
 ### 🔍 Other Identities
 
