@@ -1,66 +1,25 @@
-# Welcome to Shiroko253's README
+<h1 align="center">Hi 👋, I'm Shiroko253</h1>
+<h3 align="center">a one discord developer</h3>
 
-## 👤 Who?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiroko253&label=Profile%20views&color=0e75b6&style=flat" alt="shiroko253" /> </p>
 
-* **Name**: Shiroko
-* **Age**: 19
+<p align="left"> <a href="https://twitter.com/yuemeng200" target="blank"><img src="https://img.shields.io/twitter/follow/yuemeng200?logo=twitter&style=for-the-badge" alt="yuemeng200" /></a> </p>
 
-  * *(Born: July 19, 2005)*
+- 🔭 I’m currently working on [Project-Zero](https://github.com/Shiroko253/Project-Zero)
 
-<img src="./img/me2.png" alt="Shiroko253" width="200"/>
+- 📫 How to reach me **yuemeng62@gmail.com**
 
-### 🔍 Other Identities
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yuemeng200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuemeng200" height="30" width="40" /></a>
+<a href="https://discord.gg/Miya253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miya253" height="30" width="40" /></a>
+</p>
 
-* [@Shiroko253](https://github.com/Shiroko253)
-  Founder of **Project Zero**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-* [@Miya253](https://github.com/Miya253)
-  Participant of Project Zero — Bug finder and fixer
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiroko253&show_icons=true&locale=en&layout=compact" alt="shiroko253" /></p>
 
-## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiroko253&show_icons=true&locale=en" alt="shiroko253" /></p>
 
-![Shiroko253's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroko253\&show_icons=true\&theme=cobalt)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253\&layout=compact\&show_icons=true\&theme=cobalt)](https://github.com/Shiroko253/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shiroko253\&repo=Project-Zero\&theme=dracula)](https://github.com/Shiroko253/Project-Zero)
-
-## 💻 Programming Languages
-
-* **Python** – Used for Discord bot development
-* **JavaScript** – Exploring app development
-* **C#** – Currently studying; planning to develop Discord bot V2
-* **HTML** – For personal web projects
-* **CSS** – Styling websites
-* **Java** – Might explore mod development in the future
-
-## 🌏 Where I'm From
-
-* **Country**: Malaysia
-* **State**: Sarawak
-
-  * **City**: Kuching Kota Padawan
-
-## 🛠️ Projects I'm Developing
-
-### [Project-Zero](https://github.com/xuemeng1987/Project-Zero)
-
-A core personal project.
-
-* **Language**:
-  ![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white\&style=flat-square)
-
-### [My Web](https://miya253.github.io/ShirokoHub/)
-
-A personal website project.
-
-* **Languages**:
-  ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5\&logoColor=white\&style=flat)
-  ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3\&logoColor=white\&style=flat)
-
-### [Project-Zero Discord Bot](https://discord.com/oauth2/authorize?client_id=852046004550238258&permissions=15&scope=bot)
-
-<img src="./img/yuyuko.png" alt="Project-Zero Bot" width="200"/>
-
-* **Language**: Python
-* **Localization**: Chinese (zh-CN)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiroko253&" alt="shiroko253" /></p>
