@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiroko253&label=Profile%20views&color=ffa8e8&style=flat-square" alt="shiroko253" /> </p>
 
-- 🔭 I’m currently working on [Project-Zero](https://github.com/Shiroko253/Project-Zero)
-
 - 📫 How to reach me **yuemeng62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
