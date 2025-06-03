@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiroko253&label=Profile%20views&color=ffa8e8&style=flat-square" alt="shiroko253" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yuemeng200" target="blank"><img src="https://img.shields.io/twitter/follow/yuemeng200?logo=twitter&style=for-the-badge" alt="yuemeng200" /></a> </p>
-
 - 🔭 I’m currently working on [Project-Zero](https://github.com/Shiroko253/Project-Zero)
 
 - 📫 How to reach me **yuemeng62@gmail.com**
@@ -21,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiroko253&show_icons=true&theme=dark&title_color=e5b8b8&locale=en&layout=compact" alt="shiroko253" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiroko253&show_icons=true&theme=dark&title_color=d8b0b0&locale=en" alt="shiroko253" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiroko253&theme=dark" alt="shiroko253" /></p>
