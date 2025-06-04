@@ -16,5 +16,6 @@
 
 ![Shiroko253's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroko253&show_icons=true&theme=midnight-purple)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253&layout=compact&theme=midnight-purple)](https://github.com/Shiroko253/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiroko253&theme=dark" alt="shiroko253" /></p>
