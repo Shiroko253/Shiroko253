@@ -32,22 +32,19 @@ if __name__ == "__main__":
 
 ## 💻 常用語言 & 技術棧
 
-```Csh
+```ts
 // 🛠 使用語言
-var languages = new Dictionary<string, string>
-{
-    { "Python", "第一個 Discord Bot 的核心語言" },
-    { "JavaScript", "第二個 Bot 的替代語言，因為容易理解" },
-    { "C#", "偶爾嘗試，不是常用語言" },
-    { "TypeScript", "希望未來能用它開發一些能拿得出手的作品" },
-    { "Java", "目前還在學習中" }
+const languages: Record<string, string> = {
+  Python: "第一個 Discord Bot 的核心語言",
+  JavaScript: "第二個 Bot 的替代語言，因為容易理解",
+  "C#": "偶爾嘗試，不是常用語言",
+  TypeScript: "希望未來能用它開發一些能拿得出手的作品",
+  Java: "目前還在學習中",
 };
 
-foreach (var lang in languages)
-{
-    Console.WriteLine($"{lang.Key}: {lang.Value}");
+for (const [key, value] of Object.entries(languages)) {
+  console.log(`${key}: ${value}`);
 }
-
 ```
 
 <p align="left">
