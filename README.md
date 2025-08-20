@@ -1,18 +1,32 @@
-# 開發者 Shiroko253
+<div align="center">
+
+<hr>
+
+<p>
+  <strong>🌏 Language / 語言切換：</strong>
+  <a href="doc/README.zh-tw.md">🇨🇳 中文版（繁體）</a> | 
+  <a href="README.md">🇺🇸 English</a>
+</p>
+
+<hr>
+
+</div>
+
+# Developer Shiroko253
+
 ```bash
 pip install -r requirements.txt
 ```
-```python
-from openai import ChatGPT
 
+```python
 class Shiroko253:
     def __init__(self):
         self.name = "Shiroko253"
-        self.role = "Discord Bot 開發者"
-        self.interests = ["音遊", "後端開發", "可愛的東西"]
+        self.role = "Discord Bot Developer"
+        self.interests = ["Rhythm games", "Backend Development", "Cute things"]
     
     def introduce(self):
-        print(f"你好，用戶！我是 {self.name}，一名 {self.role}。")
+        print(f"Hi there! I'm {self.name}, a {self.role}.")
 
 if __name__ == "__main__":
     me = Shiroko253()
@@ -21,31 +35,21 @@ if __name__ == "__main__":
 
 ---
 
-## 📊 GitHub 狀態
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiroko253&show_icons=true&theme=midnight-purple" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroko253&layout=compact&theme=midnight-purple" alt="Top Langs" height="165" />
 </p>
 
-
 ---
 
-## 💻 常用語言 & 技術棧
+## 💻 Common Languages & Tech Stack
 
-```ts
-// 🛠 使用語言
-const languages: Record<string, string> = {
-  Python: "第一個 Discord Bot 的核心語言",
-  JavaScript: "第二個 Bot 的替代語言，因為容易理解",
-  "C#": "偶爾嘗試，不是常用語言",
-  TypeScript: "希望未來能用它開發一些能拿得出手的作品",
-  Java: "目前還在學習中",
-};
-
-for (const [key, value] of Object.entries(languages)) {
-  console.log(`${key}: ${value}`);
-}
-```
+- **Python:** Main language for Discord Bot projects
+- **JavaScript:** Secondary Bot language, easy to understand
+- **C#:** Occasionally used, not my primary language
+- **TypeScript:** Hope to create some strong projects with it in the future
+- **Java:** Currently learning
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -79,9 +83,8 @@ for (const [key, value] of Object.entries(languages)) {
 
 ---
 
-### 關於我
+### 🎮 About Me
 ```js
-// === 關於我 ===
 const me = {
   osuMania: {
     mode: "top!mania",
@@ -93,18 +96,13 @@ const me = {
   honkaiStarRail: "UID: 804179715"
 };
 
-// 顯示 osu!mania 成就
 console.log(`osu!mania - ${me.osuMania.mode} - Global Ranking ${me.osuMania.globalRanking}, Country Ranking ${me.osuMania.countryRanking}`);
 console.log(`Profile: ${me.osuMania.profile}`);
-
-// 顯示其他遊戲資訊
 console.log(`Minecraft - ${me.minecraft}`);
 console.log(`Honkai Star Rail - ${me.honkaiStarRail}`);
-
 ```
 <p align="center"> <a href="https://osu.ppy.sh/u/Shiro253"> <img src="https://osu-sig.vercel.app/card?user=Shiro253&mode=mania&animation=true&hue=255&w=580&h=337" alt="osu! signature card"> </a> </p>
 
 ---
 
-> 💡 *代碼不是溫暖的，但開發者的魔法，能讓它也有心跳。*
-
+> 💡 *Code isn't warm, but with a developer's magic, it can have a heartbeat.*
