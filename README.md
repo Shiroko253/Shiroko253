@@ -101,7 +101,7 @@ console.log(`Profile: ${me.osuMania.profile}`);
 console.log(`Minecraft - ${me.minecraft}`);
 console.log(`Honkai Star Rail - ${me.honkaiStarRail}`);
 ```
-<p align="center"> <a href="https://osu.ppy.sh/u/Shiro253"> <img src="https://osu-sig.vercel.app/card?user=Shiro253&mode=mania&animation=true&hue=255&w=580&h=337" alt="osu! signature card"> </a> </p>
+<p align="center"> <a href="https://osu.ppy.sh/u/Shiro253"> <img src="https://osu-sig.vercel.app/card?user=Shiro253&mode=mania&lang=en&animation=true&w=580&h=337" alt="osu! signature card"> </a> </p>
 
 ---
 
