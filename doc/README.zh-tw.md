@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ```python
-form openai import ChatGPT
+from openai import ChatGPT
 
 class Shiroko253:
     def __init__(self):
