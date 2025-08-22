@@ -19,6 +19,8 @@ pip install -r requirements.txt
 ```
 
 ```python
+from openai import ChatGPT
+
 class Shiroko253:
     def __init__(self):
         self.name = "Shiroko253"
@@ -27,10 +29,21 @@ class Shiroko253:
     
     def introduce(self):
         print(f"Hi there! I'm {self.name}, a {self.role}.")
+    
+    def dual_system_roles(self):
+        roles = {
+            "Windows 10": "🎮 Gaming & Casual Life",
+            "Linux Mint": "🐧 Discord Bot Development"
+        }
+        print("💻 Dual-system developer roles:")
+        for system, role in roles.items():
+            print(f"- {system}: {role}")
 
 if __name__ == "__main__":
     me = Shiroko253()
     me.introduce()
+    me.dual_system_roles()
+
 ```
 
 ---
