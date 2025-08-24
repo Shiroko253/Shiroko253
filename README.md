@@ -32,10 +32,9 @@ class Shiroko253:
     
     def dual_system_roles(self):
         roles = {
-            "Windows 10": "🎮 Gaming & Casual Life",
             "Linux Mint": "🐧 Discord Bot Development"
         }
-        print("💻 Dual-system developer roles:")
+        print("💻  developer roles:")
         for system, role in roles.items():
             print(f"- {system}: {role}")
 
